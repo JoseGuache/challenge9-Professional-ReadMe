@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a simple project that allows a user to generate a README file directly from their intergrated terminal by simply answering a few questions.
+This is a simple project that allows a user to generate a README file directly from thier intergrated terminal by simply answering a few questions.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This is a simple project that allows a user to generate a README file directly f
 
 ## Installation
 
-Just run npm i
+Just run npm i.
 
 ## Usage
 
@@ -29,7 +29,7 @@ This project is licensed under the MIT license. For more information, visit http
 
 ## Contributing
 
-If anyone feels that they want to contribute to the codebase just send me an email and we can discuss what you would like to implement.
+If anyone wants to contribute to the codebase just send me an email and we can discuss what you would like to implement.
 
 ## Tests
 
