@@ -1,59 +1,43 @@
-# Professional ReadMe
+# Professional README Generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
- undefined
+This is a simple project that allows a user to generate a README file directly from their intergrated terminal by simply answering a few questions.
 
-## Table of Contents (Optional)
-
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
-undefined
+Just run npm i
 
 ## Usage
 
-undefined 
-    
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Not needed.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+This project is licensed under the MIT license. For more information, visit https://opensource.org/licenses/MIT
 
----
+## Contributing
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+If anyone feels that they want to contribute to the codebase just send me an email and we can discuss what you would like to implement.
 
 ## Tests
 
+Just run npm test.
 
+## Questions
 
+For additional questions, you can reach me through:
+
+GitHub: [JoseGuache](https://github.com/JoseGuache)
+Email: jamesg2126@gmail.com
